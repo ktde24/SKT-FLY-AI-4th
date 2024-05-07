@@ -1,5 +1,6 @@
 # SKT FLY AI 4기(열정 5조)
-![image](https://github.com/ktde24/FLYAI_COCOCHAT/assets/118182432/698211fb-4b74-4d02-8257-3ade45da4482)
+![image](https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/87008b46-e02b-4332-87d5-d93e6d9072eb)
+
 
 
 ### Team😄
@@ -31,7 +32,8 @@
 
 ✔️ 기 학습된 의학 자료와 우리 아기만의 육아 정보를 추가로 학습하여, 연령 및 상황별 적절한 육아 지식을 공부해야 할 수고로움을 줄여줍니다.
 
-![image](https://github.com/ktde24/FLYAI_COCOCHAT/assets/118182432/694a560e-7e3d-4070-8ad8-7db5f32f346b)
+![image](https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/10951e5c-e44a-4296-9c41-768857ac9e8d)
+
 
 ✔️ 영상에서 아기의 수면과 뒤집음 여부 판단
 -  움직임과 눈감음 정도로 수면 여부를 파악하고, Mediapipe의 Pose Landmark로 뒤집음 여부를 판단합니다. 판단한 것을 바탕으로 아이가 뒤집거나 잠에서 깨어났을 때, 부모의 폰으로 알림이 갑니다.
@@ -47,11 +49,11 @@
 ### Result📌
 | 수면 판단1 | 수면 판단2 |
 |------------|------------|
-| <img src="https://github.com/ktde24/FLYAI_COCOCHAT/assets/118182432/0d024660-6071-4403-8891-f77c71db8c3b" width="300px"> | <img src="https://github.com/ktde24/FLYAI_COCOCHAT/assets/118182432/57ee3a77-16fd-4eca-a018-c1c55ddce0d3" width="300px"> |
+| <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/68f66e98-1d40-4aa8-a91c-16deac0edb38" width="300px"> | <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/0481f91c-5627-4976-996e-5dbd98f689d1" width="300px"> |
 
 
 | 육아 챗봇1 | 육아 챗봇2 | 수면 Report |
 |------------|------------|------------|
-| <img src="https://github.com/ktde24/FLYAI_COCOCHAT/assets/118182432/f0fa1e25-ad30-43f8-ab89-152a50862a4e" width="300px"> | <img src="https://github.com/ktde24/FLYAI_COCOCHAT/assets/118182432/bfa5829c-09de-423c-9a53-9436ca037b69" width="300px"> | <img src="https://github.com/ktde24/FLYAI_COCOCHAT/assets/118182432/925b18a0-2a54-4e9c-9531-2d529adecf51" width="300px"> |
+| <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/62b99592-a57a-4302-95ec-7a9d1c4206cf" width="300px"> | <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/f34df8e0-034f-4dfa-b479-087f65b817d7" width="300px"> | <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/19f95282-fb30-4299-a5d3-6baab53adcf3" width="300px"> |
 
 
