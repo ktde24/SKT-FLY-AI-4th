@@ -12,6 +12,11 @@
 - 우정아 : Back-end, AI
 - 주동근 : Planning, AI
 
+### SKT FLY AI 코코박사 - 분리 수면 도우미💤
+- MediaPipe의 Face landemark, Pose landemark로 아이의 수면 여부 및 뒤집 여부 판단
+- CatBoostClassifier 모델 사용
+
+
 ### SKT FLY AI 코코박사 - COCOCHAT💬
 - openai API 사용(gpt-3.5-turbo, gpt-4-turbo-preview, DALLE)
 - 임베딩 모델: KoBERT(모델명: jhgan/sbert-nli)
