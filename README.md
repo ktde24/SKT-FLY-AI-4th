@@ -61,4 +61,6 @@
 |------------|------------|------------|
 | <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/62b99592-a57a-4302-95ec-7a9d1c4206cf" width="300px"> | <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/f34df8e0-034f-4dfa-b479-087f65b817d7" width="300px"> | <img src="https://github.com/ktde24/SKT-FLY-AI-4th/assets/118182432/19f95282-fb30-4299-a5d3-6baab53adcf3" width="300px"> |
 
+### 수업 내용 정리
+https://velog.io/@ktde24/series/SKT-FLY-AI-4%EA%B8%B0
 
